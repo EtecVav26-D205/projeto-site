@@ -76,12 +76,12 @@ projeto-maze/
 ├── README.md
 │
 ├── planejamento/
-│   ├── proposta-site.md
+│   ├── proposta.md
 │   ├── publico-alvo.md
 │   ├── identidade-visual.md
 │   ├── mobile-first.md
-│   ├── estrutura-site.md
-│   └── recursos-site.md
+│   ├── estrutura.md
+│   └── recursos.md
 │
 ├── imagens/
 ├── logo/
