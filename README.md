@@ -71,7 +71,7 @@ O projeto será desenvolvido utilizando o conceito Mobile First, priorizando ini
 # 📂 Organização do Projeto
 
 ```txt
-projeto-maze/
+projeto-site/
 │
 ├── README.md
 │
