@@ -85,4 +85,5 @@ projeto-site/
 │
 ├── imagens/
 ├── logo/
+│   └── logo-maze.png
 └── referencias/
